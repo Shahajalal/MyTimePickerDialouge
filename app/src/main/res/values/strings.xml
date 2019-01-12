@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyTimePickerDialouge</string>
+    <string name="button_name">set Time</string>
+</resources>
